@@ -79,7 +79,7 @@
 
 ***Mini-projects***
 - [Integrating Nighttime Lights on Predicting Land Usage: A case for IGACOS](https://drive.google.com/file/d/1oIGKkH_uSw4SFCrMeQ8-whU5zS9LZzdL/view?usp=sharing)
-- [Extended l1 approximation model for clustered data](https://drive.google.com/file/d/1pr5ArxhyQpB91oB_Jgno57lrp4kz4NXN/view?usp=sharing)
+- [Extended L1 approximation model for clustered data](https://drive.google.com/file/d/1pr5ArxhyQpB91oB_Jgno57lrp4kz4NXN/view?usp=sharing)
 - [On the Efficiency of MH Exchange Algorithm on Bayesian COMPoisson GLMs](https://drive.google.com/file/d/1FJOIYNudH3bNvzH4xwDtnbdOoI5Cfs8D/view?usp=sharing)
 - [Baseline Data for the Literacy Program on Emergency Context](https://drive.google.com/file/d/1sreaIpYz9TeB_BqKXMl9sZQZrEDtaycF/view?usp=sharing)
 
