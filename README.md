@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Crunching data since 2012<br>📚 I'm currently learning advance ML and AI through my PhD in Data Science<br>🎯 Goals: Develop accessible ML models</p>
+<p align="left">✨ Crunching data since 2012<br>📚 Studying advance ML and AI through my PhD in Data Science<br>🎯 Goals: Develop accessible ML models</p>
 
 ###
 
